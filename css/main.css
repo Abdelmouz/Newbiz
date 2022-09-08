@@ -595,6 +595,9 @@ a {
   #prtfolio .bttmm {
     width: 70%;
   }
+  #prtfolio .bttmm ul {
+    justify-content: space-between;
+  }
   #prtfolio .bttmm .myybtn {
     margin: 20px 4px;
     border-radius: 20px;
