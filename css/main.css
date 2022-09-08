@@ -596,7 +596,7 @@ a {
     width: 70%;
   }
   #prtfolio .bttmm .myybtn {
-    margin: 20px 10px;
+    margin: 20px 5px;
     border-radius: 20px;
     padding: 5px 20px;
   }
@@ -686,7 +686,7 @@ a {
 }
 /************clients***********/
 #clients {
-  padding: 60px 0;
+  padding: 60px 10px;
   background-color: #ecf5ff;
   box-shadow: inset 0 0 12px 0 rgb(0 0 0 / 10%);
   margin-top: 50px;
